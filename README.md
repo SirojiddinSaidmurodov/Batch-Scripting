@@ -1,5 +1,9 @@
 # Batch-Scripting
 
+### Creating String
+@echo off
+set name=Anurag Goel
+echo %name%
 
 
 ## Commands
