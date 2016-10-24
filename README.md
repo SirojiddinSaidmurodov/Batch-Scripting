@@ -1,6 +1,6 @@
 # Batch-Scripting
 
-##Creating String
+**Creating String**
 ```
 @echo off
 set name=Anurag Goel
